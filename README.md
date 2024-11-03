@@ -1,4 +1,5 @@
 Movie Project 🎬
+
 Welcome to the Movie Project, a SwiftUI-based application designed to manage and display a collection of movies. This project allows users to add, delete, and search for movies with details such as title, rating, and categories. This project demonstrates the use of SwiftUI’s state management, navigation, and interactive list handling.
 
 Features
